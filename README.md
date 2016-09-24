@@ -5,9 +5,10 @@ taiwan literature prize history data
 歡迎熱情的文學愛好者們協助更新、補足資料。
 
 ## 內容
-prize.json 是獎項方面的資料，未來會優化成更合適的樹狀結構（避免重複評審資料跟年份資料之類的）。
-writers.json 是得獎者方面的資料。
-prizedata.csv 則是初步整理時的結果，不會操作 json 的參與者可以用這份檔案大概判斷缺少哪些資料。
+
+- prize.json: 獎項方面的資料，未來會優化成更合適的樹狀結構（避免重複評審資料跟年份資料之類的）。
+- writers.json: 得獎者方面的資料。
+- prizedata.csv: 初步整理時的結果，不會操作 json 的參與者可以用這份檔案大概判斷缺少哪些資料。
 
 ## 資料來源
 
